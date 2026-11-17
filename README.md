@@ -43,8 +43,8 @@ remains 480i.
 ## Installation / Usage
 
 ```bash
-git clone https://github.com/<you>/psikyo-vol3-240p.git
-cd psikyo-vol3-240p
+git clone https://github.com/calcification/psikyo-ps2-240p.git
+cd psikyo-ps2-240p
 python3 psikyo_vol3_240p.py down2 "SLPM-62593 original.iso" "Psikyo Vol3 240p.iso"
 ```
 
